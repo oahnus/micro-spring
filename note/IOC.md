@@ -6,7 +6,7 @@
 
 BeanFactory类图
 
-![](../../img/BeanFactory.png)
+![](../img/BeanFactory.png)
 
 
 
@@ -28,7 +28,7 @@ Spring IOC容器管理定义的Bean对象及其相互的关系, Bean对象在Spr
 
 
 
-![](../../img/RootBeanDefinition.png)
+![](../img/RootBeanDefinition.png)
 
 
 
